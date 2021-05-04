@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="spring-aop">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/aspectjrt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aspectjtools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aspectjweaver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-aspects-5.3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-aop-5.3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
